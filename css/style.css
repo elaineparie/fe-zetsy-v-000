@@ -53,7 +53,7 @@ p {
 /*////////// Section Styles //////////*/
 
 #feature-image {
-	border: solid rgb(152, 173, 166);
+	border: 5px solid rgb(152, 173, 166);
 }
 
 header a {
