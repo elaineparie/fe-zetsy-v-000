@@ -20,5 +20,5 @@ body {
 /* Write all remaining styles here */
 
 #feature-image {
-	border: black;
+	border: black 20px;
 }
