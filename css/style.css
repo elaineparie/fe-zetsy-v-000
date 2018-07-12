@@ -22,3 +22,7 @@ body {
 #feature-image {
 	border: solid;
 }
+
+h1 {
+	font: 'Baskerville.ttc'
+}
