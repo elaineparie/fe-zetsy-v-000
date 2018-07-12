@@ -19,7 +19,6 @@ body {
 
 /* Write all remaining styles here */
 
-.main-page {
-	background: #eee;
-	margin: 0 auto;
+#feature-image {
+	margin: 0 auto;;
 }
