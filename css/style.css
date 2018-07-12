@@ -24,7 +24,7 @@ body {
 /* Write all remaining styles here */
 
 #feature-image {
-	border: solid;
+	border: solid rgb(152, 173, 166);
 }
 
 h1 {
